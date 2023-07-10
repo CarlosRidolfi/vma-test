@@ -10,7 +10,7 @@
 ### 3 - Execute o comando npm install para instalar as dependências necessárias.
 ### 4 - Após a conclusão da instalação, execute o comando npm run dev para iniciar o servidor de desenvolvimento.
 ### 5 - Agora, você pode acessar o projeto em seu navegador através do seguinte endereço: http://localhost:3000/.
-### Acesse também a URL onde ele está hospedadoÇ https://vma-test-gilt.vercel.app/.
+### Acesse também a URL onde ele está hospedado https://vma-test-gilt.vercel.app/.
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de executar os comandos acima.
 
