@@ -1,34 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Verify My Age Test</h1>
 
-## Getting Started
+<p>Este é o repositório do projeto de teste técnico para a empresa Verify My Age. O objetivo deste projeto é criar uma tela de login.</p>
 
-First, run the development server:
+<h2><mark>Como rodar este projeto</mark></h2>
+<p>Siga as instruções abaixo para executar o projeto em sua máquina local:</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### 1 - Clone este repositório em sua máquina usando o comando: git clone https://github.com/CarlosRidolfi/vma-test.git.
+### 2 - Navegue até o diretório raiz do projeto.
+### 3 - Execute o comando npm install para instalar as dependências necessárias.
+### 4 - Após a conclusão da instalação, execute o comando npm run dev para iniciar o servidor de desenvolvimento.
+### 5 - Agora, você pode acessar o projeto em seu navegador através do seguinte endereço: http://localhost:3000/.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de executar os comandos acima.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Se você tiver alguma dúvida ou problema ao executar o projeto, sinta-se à vontade para entrar em contato.
